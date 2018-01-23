@@ -2,7 +2,7 @@
 <html>
 <head>  
 <meta charset="UTF-8">
-<!--Comentario prueba-->
+<!--Comentario prueba 2-->
 <!--____________________________________________________NEW LIB-->
 <script src="libs/plotly-latest.min.js"></script>
 <!--____________________________________________________-->
