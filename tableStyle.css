@@ -1,0 +1,14 @@
+#data tbody tr {
+  display: none;
+}
+
+#loadIndicator{
+	
+}
+
+#main{
+	height:300px;
+	overflow: scroll;
+	background-color:LightGray;
+	border:ridge;
+}
